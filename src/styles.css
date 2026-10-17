@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.cont1 {
+  color: rgb(109, 20, 39);
+  text-align: center;
+  border-width: 10px;
+}
+.cont1 li {
+  list-style: none;
+  display: inline;
+  margin: 12px;
+}
+#BODY1 {
+  background-color: aqua;
+  width: 550px;
+  border: inset;
+  border-color: black;
+}
